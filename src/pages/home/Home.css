@@ -287,77 +287,38 @@
     .hero-img{
         height: 60vh;
     }
-    .hero-btns{
-        margin-bottom: 3px;
-    }
     .hero-title{
         max-width: 185px;
-        margin-bottom: 3px;
     }
     .hero-caption .hero-text{
         width: 370px;
-        font-size: 0.6rem;
     }
 }
 @media (max-width : 450px){
     .hero-img{
-        height: 55vh;
-    }
-    .hero-title{
-        max-width: 160px;
+        height: 61vh;
     }
     .hero-caption .hero-text{
         width: 350px;
-        font-size: 0.5rem;
-    }
-    .hero-btns{
-        gap: 5px;
-    }
-    .play-btn{
-        padding: 2px 8px;
-        font-size: 10px;
-        gap: 5px;
-    }
-    .info-btn{
-        padding: 2px 8px;
-        font-size: 10px;
-        gap: 5px;
     }
     .hero-section{margin-bottom: 20px;}
     .hero-caption{padding-left: 3%}
     .more-cards{ padding-left: 3%;}
 }
 @media (max-width : 380px){
-    .hero-title{
-        max-width: 135px;
-    }
     .hero-caption .hero-text{
         width: 270px;
-        font-size: 0.4rem;
     }
 }
 @media (max-width : 330px){
     .hero-img{
-        height: 50vh;
+        height: 58vh;
     }
     .hero-title{
         max-width: 130px;
     }
     .hero-caption .hero-text{
         width: 230px;
-        font-size: 0.35rem;
-    }
-    .play-btn{
-        border-radius: 3px;
-        padding: 1px 6px;
-        font-size: 9px;
-        gap: 3px;
-    }
-    .info-btn{
-        border-radius: 3px;
-        padding: 1px 6px;
-        font-size: 9px;
-        gap: 3px;
     }
     .hero-section{margin-bottom: 15px;}
     .hero-caption{padding-left: 2%}
