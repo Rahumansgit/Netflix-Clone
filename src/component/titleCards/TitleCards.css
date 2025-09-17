@@ -67,38 +67,66 @@
     }
 }
 @media (max-width : 650px){
+    .card img{
+        width: 190px;
+    }
     .title-cards h2{
         font-size: 1.15rem;
     }
 }
 @media (max-width : 550px){
+    .card img{
+        width: 180px;
+    }
+    .card-name{
+        font-size: 0.8rem;
+    }
     .title-cards h2{
         font-size: 1.1rem;
     }
     .card-list{
+        gap: 6px;
         margin-bottom: 20px;
     }
 }
 @media (max-width : 500px){
+    .card img{
+        width: 170px;
+    }
+    .card-name{
+        font-size: 0.75rem;
+    }
     .title-cards h2{
         font-size: 1.05rem;
     }
     .card-list{
-        gap: 7px;
+        gap: 5px;
         margin-bottom: 18px;
     }
 }
 @media (max-width : 450px){
+    .card img{
+        width: 160px;
+    }
+    .card-name{
+        font-size: 0.7rem;
+    }
     .title-cards h2{
         font-size: 1rem;
     }
     .card-list{
-        gap: 6px;
+        gap: 4px;
         margin-bottom: 15px;
     }
 }
 
 @media (max-width : 330px){
+    .card img{
+        width: 150px;
+    }
+    .card-name{
+        font-size: 0.65rem;
+    }
     .title-cards h2{
         font-size: 0.95rem;
     }

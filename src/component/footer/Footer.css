@@ -110,14 +110,22 @@
         font-size: 7px;
     }
 }
-@media (max-width : 425px){
+@media (max-width: 400px){
     .footer{
         width: 300px;
     }
-    .footer ul{
-        display: grid;
-        grid-template-columns: auto auto;
-        gap: 10px;
+    .footer ul li{
+        font-size: 6px;
     }
-
+    .icons{
+        gap: 5px;
+        width: 50%;
+        margin: 15px 0;
+    }
+    .icons img{
+        width: 13px;
+    }
+    .copyright-text{
+        font-size: 6px;
+    }
 }
