@@ -18,12 +18,12 @@ export default function Login() {
                 <input type="email" placeholder='Email' />
                 <input type="password" placeholder='Password' />
                 <button type='button'>{signState? 'Sign In': 'Sign Up'}</button>
-                <div class="form-help">
-                <div class="remember">
-                    <input type="checkbox" />
-                    <label>Remember Me</label>
-                </div>
-                <p>Need Help?</p>
+                <div className="form-help">
+                  <div className="remember">
+                      <input type="checkbox" />
+                      <label>Remember Me</label>
+                  </div>
+                  <p>Need Help?</p>
                 </div>
                 <div className="form-switch">
                   {signState?<p>New to Netflix? <span onClick={()=>{setSignState(prev => !prev)}} >Sign Up Now</span> </p>:
