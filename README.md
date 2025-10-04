@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Rahumansgit/Netflix-Clone?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Rahumansgit/Netflix-Clone)
 
-A frontend clone of Netflix built using web technologies, with user login functionality.  
+A frontend fully clone of Netflix built using web technologies, with responsive UI.  
 Visit live demo: [ar-netflix-clone.vercel.app](https://ar-netflix-clone.vercel.app)  
 
 ---
@@ -60,6 +60,18 @@ Netflix-Clone/
 - Display of movie cards / sections  
 - UI interactivity (hover effects, card expansions, etc.)  
 - A clean, Netflix-inspired layout  
+
+---
+
+## 🏠 Home Page Details
+
+The **Home Page** (`index.html`) replicates Netflix’s familiar browsing experience.  
+Key highlights:
+- A **hero section** with background banners and movie titles  
+- Multiple **movie category sections** (e.g., Trending, Top Picks, New Releases)  
+- **Horizontal scroll animations** and hover effects on movie thumbnails  
+- A top **navigation bar** with logo and menu options  
+- **Fully responsive design** that adapts perfectly across all devices — from large screens to mobile phones 📱💻  
 
 ---
 
