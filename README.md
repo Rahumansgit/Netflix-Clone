@@ -43,12 +43,12 @@ Netflix-Clone/
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - HTML5  
-- CSS3 (Flexbox, Grid, responsive design)  
-- JavaScript (ES6+)  
-- Optionally, any API for movie data or mock data  
+- CSS3   
+- JavaScript   
+- React.js  
 
 ---
 
@@ -63,7 +63,7 @@ Netflix-Clone/
 
 ---
 
-## 🏠 Home Page Details
+##  Home Page Details
 
 The **Home Page** (`index.html`) replicates Netflix’s familiar browsing experience.  
 Key highlights:
