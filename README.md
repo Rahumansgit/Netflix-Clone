@@ -21,15 +21,6 @@ Visit live demo: [ar-netflix-clone.vercel.app](https://ar-netflix-clone.vercel.a
 
 ---
 
-### File Descriptions
-- **index.html** — the main browsing interface with movie lists  
-- **login.html / login route** — user login interface  
-- **style.css** — styles, layout, responsive rules  
-- **script.js** — JS for UI interactivity, login handling, data fetching  
-- **img/** — images/screenshots used in README / documentation  
-
----
-
 ##  Technologies Used
 
 - HTML5  
