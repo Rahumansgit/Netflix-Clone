@@ -21,19 +21,6 @@ Visit live demo: [ar-netflix-clone.vercel.app](https://ar-netflix-clone.vercel.a
 
 ---
 
-##  Project Structure
-
-```
-
-Netflix-Clone/
-├── img/                    # screenshots or assets (for README, etc.)
-├── index.html              # main front page (browse / home view)
-├── login.html (or part of SPA routing)  # login interface
-├── style.css               # styling & layout rules
-└── script.js                # JavaScript logic (data fetch, UI, login flow)
-
-````
-
 ### File Descriptions
 - **index.html** — the main browsing interface with movie lists  
 - **login.html / login route** — user login interface  
